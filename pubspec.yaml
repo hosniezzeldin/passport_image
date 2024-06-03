@@ -1,7 +1,7 @@
 name: passport_image
-description: "A test package to generate passport size image."
-version: 0.0.1
-homepage:
+description: "A test package to generate passport size image. It takes an image and returns a passport size image."
+version: 0.0.2
+homepage: https://github.com/hosniezzeldin/passport_image
 
 environment:
   sdk: ">=3.4.1 <4.0.0"
